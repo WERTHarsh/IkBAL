@@ -45,7 +45,7 @@
 <section id="about" class="section-content">
     <h2>About Me</h2>
     <img src="about_image.jpg" alt="About Me Image" class="section-image">
-    <p>Hi! My name is Heli Patel. I am 21 years old and I love to watch movies and do different circular activities. I enjoy spending time with my family and friends.</p>
+    <p>Hi! My name is Wert Harsh. I am 21 years old and I love to watch movies and do different circular activities. I enjoy spending time with my family and friends.</p>
 </section>
 
 <!-- My Favorite Things Section -->
